@@ -1,5 +1,9 @@
 # infNEP
-Algorithms for solving infinite-dimensional non-linear eigenvalue problems, and examples. The code is presented as a gallery of examples for producing the results of the paper [Matthew J. Colbrook, Alex Townsend, "Avoiding discretization issues for nonlinear eigenvalue problems"]. Please reference this if you use the code.
+Algorithms for solving infinite-dimensional non-linear eigenvalue problems, and examples.
+
+The code is presented as a gallery of examples for producing the results of the paper<br>
+<b>Matthew J. Colbrook, Alex Townsend, "Avoiding discretization issues for nonlinear eigenvalue problems"</b><br>
+Please reference this paper if you use the code.
 
 The subfolder "inf_dim_functions" contains routines, including the infinite-dimensional version of Beyn's algorithm.
 
